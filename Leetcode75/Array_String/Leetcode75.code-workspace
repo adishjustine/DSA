@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.referencedLibraries": [
+			"c:\\Users\\adish\\real\\ccexp7\\lib\\cloudsim-3.0.3.jar"
+		],
+		"java.format.settings.url": ".vscode/java-formatter.xml"
+	}
+}
