@@ -32,4 +32,4 @@ public:
         // Return the minimum cost between these two starting points
         return min(dfs(0), dfs(1));
     }
-};
+}
